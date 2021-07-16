@@ -1,7 +1,5 @@
 body{margin: 0;
-    padding: 0;
 text-align: center;
-align-items: center;
 background-color: #7C83fc;}
 
 .top{ background-color: #7C83FD;
@@ -31,9 +29,7 @@ font-weight: bolder;
 position: absolute;
 left: 50%;
 top: 10%;
-
 }
-
 
 .p2{
     word-spacing: .01px;;
